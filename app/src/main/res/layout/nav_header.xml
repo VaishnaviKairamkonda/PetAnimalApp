@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="140dp"
     android:minHeight="100dp"
-    android:background="#fcca73">
+    android:background="#F1AE34">
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/imagePatient"
